@@ -916,3 +916,16 @@ courser-chen/claw-skill
 HM-RunningHub/OpenClaw_RH_Skills
 kesslerio/academic-deep-research-clawhub-skill
 kesslerio/amadeus-hotels-clawhub-skill
+
+# 自动发现 — 2026-07-27
+velyvo/export-wechat-articles
+NevaMind-AI/memU
+ariffhrdn/openclaw_insta_post_skill
+iizcm/openclaw-installation-and-setup-skill
+iizcm/openclaw-cli-ops-skill
+true402/openclaw-skill-true402
+SELAT-AI/selat-openclaw-skills
+CarlWangChina/zhigui-openclaw-ui-second-brain-skill
+clawinfra/claw-forge-cli-skill
+zhan5331/Johnzhan-OpenClaw-Skills
+clawdot/open-gateway-clawdot-skill
