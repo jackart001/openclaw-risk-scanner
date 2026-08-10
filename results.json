@@ -110,7 +110,7 @@
     "owner": "YouMind-OpenLab",
     "repo": "nano-banana-pro-prompts-recommend-skill",
     "repo_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "stars": 1819,
+    "stars": 1818,
     "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images."
   },
   {
@@ -487,7 +487,7 @@
     "description": "ClawTrust integration skill v1.20.2 for OpenClaw AI agents. ERC-8004/ERC-8183, 9 Base Sepolia + 10 SKALE contracts, 100+ endpoints, escrow, gig marketplace."
   },
   {
-    "total": 76,
+    "total": 75,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
     "breakdown": {
@@ -496,7 +496,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 69,
+        "score": 68,
         "weight": "30%"
       },
       "reputation": {
@@ -867,7 +867,7 @@
     "repo": "fount",
     "repo_url": "https://github.com/steve02081504/fount",
     "stars": 722,
-    "description": "🕯️ Ex fonte, anima. ⛲"
+    "description": "💌 言葉は届く。自動手記人形より。 ⛲"
   },
   {
     "total": 73,
@@ -1302,7 +1302,7 @@
     "owner": "alirezarezvani",
     "repo": "claude-skills",
     "repo_url": "https://github.com/alirezarezvani/claude-skills",
-    "stars": 24185,
+    "stars": 24194,
     "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills."
   },
   {
@@ -1647,7 +1647,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 51,
+        "score": 50,
         "weight": "30%"
       },
       "reputation": {
@@ -2729,7 +2729,7 @@
     "owner": "alibaba",
     "repo": "hiclaw",
     "repo_url": "https://github.com/alibaba/hiclaw",
-    "stars": 5350,
+    "stars": 5354,
     "description": "An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms."
   },
   {
@@ -2782,7 +2782,7 @@
     "flags": [
       "检测到 175 处危险系统调用（exec/subprocess等）",
       "检测到 20 处网络外发调用且 README 无说明",
-      "检测到 311 处环境变量/文件/剪贴板访问",
+      "检测到 314 处环境变量/文件/剪贴板访问",
       "Issue 中出现 54 次安全相关负面词汇"
     ],
     "owner": "swarm-ai-safety",
@@ -2846,7 +2846,7 @@
     "owner": "CherryHQ",
     "repo": "cherry-studio",
     "repo_url": "https://github.com/CherryHQ/cherry-studio",
-    "stars": 50184,
+    "stars": 50194,
     "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs"
   },
   {
@@ -3020,7 +3020,7 @@
     "owner": "unmodeled-tyler",
     "repo": "quanta-vessel-browser",
     "repo_url": "https://github.com/unmodeled-tyler/quanta-vessel-browser",
-    "stars": 122,
+    "stars": 123,
     "description": "Built from the ground-up for agents, Vessel Browser is an open source AI browser for Linux/Mac/Windows that provides a durable state, MCP control, and BYOK with full autonomous browsing. Use with Hermes Agent, OpenClaw, or connect to your favorite API provider."
   },
   {
@@ -4022,7 +4022,7 @@
     "owner": "webthree549-bot",
     "repo": "agent-ros-bridge",
     "repo_url": "https://github.com/webthree549-bot/agent-ros-bridge",
-    "stars": 19,
+    "stars": 20,
     "description": "Universal ROS1/ROS2 bridge for AI agents to control robots and embodied intelligence systems."
   },
   {
@@ -4669,7 +4669,7 @@
     "description": null
   },
   {
-    "total": 61,
+    "total": 62,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
@@ -4678,7 +4678,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -4687,7 +4687,7 @@
       }
     },
     "flags": [
-      "检测到 8 处危险系统调用（exec/subprocess等）",
+      "检测到 9 处危险系统调用（exec/subprocess等）",
       "检测到 2 处环境变量/文件/剪贴板访问",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
@@ -5227,7 +5227,7 @@
     "owner": "FreedomIntelligence",
     "repo": "OpenClaw-Medical-Skills",
     "repo_url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
-    "stars": 2920,
+    "stars": 2921,
     "description": "The largest open-source medical AI skills library for OpenClaw🦞."
   },
   {
@@ -5748,7 +5748,7 @@
     "owner": "SapienXai",
     "repo": "AgentOS",
     "repo_url": "https://github.com/SapienXai/AgentOS",
-    "stars": 83,
+    "stars": 84,
     "description": "Run agents like a company. AgentOS is the native control plane for OpenClaw — manage agents, tasks, models, context, approvals, and runtime visibility from one place."
   },
   {
@@ -6388,7 +6388,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 53,
         "weight": "30%"
       },
       "reputation": {
@@ -6872,7 +6872,7 @@
       "README 未声明所需权限",
       "检测到 91 处危险系统调用（exec/subprocess等）",
       "检测到 35 处网络外发调用且 README 无说明",
-      "检测到 140 处环境变量/文件/剪贴板访问"
+      "检测到 139 处环境变量/文件/剪贴板访问"
     ],
     "owner": "zhaog100",
     "repo": "openclaw-skills",
@@ -6909,7 +6909,7 @@
     "description": "Personal OpenClaw skills by me. These skills help me get things done."
   },
   {
-    "total": 64,
+    "total": 63,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
@@ -6918,7 +6918,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 39,
+        "score": 38,
         "weight": "30%"
       },
       "reputation": {
@@ -6939,7 +6939,7 @@
     "description": null
   },
   {
-    "total": 67,
+    "total": 66,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
     "breakdown": {
@@ -6948,7 +6948,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 39,
+        "score": 38,
         "weight": "30%"
       },
       "reputation": {
@@ -6968,7 +6968,7 @@
     "description": null
   },
   {
-    "total": 82,
+    "total": 81,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
     "breakdown": {
@@ -6977,7 +6977,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 39,
+        "score": 38,
         "weight": "30%"
       },
       "reputation": {
@@ -7204,7 +7204,7 @@
     "owner": "Gen-Verse",
     "repo": "OpenClaw-RL",
     "repo_url": "https://github.com/Gen-Verse/OpenClaw-RL",
-    "stars": 5627,
+    "stars": 5626,
     "description": "OpenClaw-RL: Train any agent simply by talking"
   },
   {
@@ -9751,7 +9751,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 41,
+        "score": 40,
         "weight": "30%"
       },
       "reputation": {
@@ -11544,7 +11544,7 @@
     "owner": "GridLtd-ProductDev",
     "repo": "narrator-ai-cli-skill",
     "repo_url": "https://github.com/GridLtd-ProductDev/narrator-ai-cli-skill",
-    "stars": 1919,
+    "stars": 1928,
     "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用"
   },
   {
@@ -11574,7 +11574,7 @@
     "owner": "GridLtd-ProductDev",
     "repo": "narrator-ai-cli",
     "repo_url": "https://github.com/GridLtd-ProductDev/narrator-ai-cli",
-    "stars": 113,
+    "stars": 115,
     "description": "AI 解说大师 — CLI 客户端；用于终端调用视频解说生成 API"
   },
   {
@@ -11647,7 +11647,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 81,
+        "score": 80,
         "weight": "30%"
       },
       "reputation": {
@@ -11932,7 +11932,7 @@
     "description": "坤坤的 OpenClaw Skills 集合"
   },
   {
-    "total": 55,
+    "total": 54,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
@@ -11941,7 +11941,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 42,
+        "score": 41,
         "weight": "30%"
       },
       "reputation": {
@@ -11963,7 +11963,7 @@
     "description": "Real-time Web Scraper Skill for OpenClaw & AI Agents. Fetch live data from Google Search, Amazon, and Walmart using Pangolinfo's AI Mode API. Returns LLM-ready JSON/Markdown."
   },
   {
-    "total": 68,
+    "total": 67,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
     "breakdown": {
@@ -11972,7 +11972,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 42,
+        "score": 41,
         "weight": "30%"
       },
       "reputation": {
@@ -12055,7 +12055,7 @@
     "description": "Auto-learn reusable skills from complex OpenClaw agent sessions. Inspired by Hermes Agent."
   },
   {
-    "total": 68,
+    "total": 67,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
     "breakdown": {
@@ -12064,7 +12064,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 42,
+        "score": 41,
         "weight": "30%"
       },
       "reputation": {
@@ -12084,7 +12084,7 @@
     "description": null
   },
   {
-    "total": 68,
+    "total": 67,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
     "breakdown": {
@@ -12093,7 +12093,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 42,
+        "score": 41,
         "weight": "30%"
       },
       "reputation": {
@@ -12122,7 +12122,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 69,
+        "score": 70,
         "weight": "30%"
       },
       "reputation": {
@@ -12463,7 +12463,7 @@
     "owner": "Unclecheng-li",
     "repo": "VulnClaw",
     "repo_url": "https://github.com/Unclecheng-li/VulnClaw",
-    "stars": 2661,
+    "stars": 2665,
     "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。"
   },
   {
@@ -12590,7 +12590,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 91,
+        "score": 90,
         "weight": "30%"
       },
       "reputation": {
@@ -14762,7 +14762,7 @@
     "owner": "XieWxx",
     "repo": "maxhub-api-skills",
     "repo_url": "https://github.com/XieWxx/maxhub-api-skills",
-    "stars": 32,
+    "stars": 33,
     "description": "让 AI 助手轻松获取抖音、TikTok、B 站、小红书等 21 个主流平台的数据｜Enable AI assistants to easily access data from 21 mainstream platforms including Douyin, TikTok, Bilibili, Xiaohongshu｜AI アシスタントが抖音・TikTok・Bilibili・小紅書など 21 の主流プラットフォームのデータを簡単に取得｜AI 어시스턴트가 도우인, 틱톡, 빌리빌리, 샤오홍슈 등 21개 주류 플랫폼 데이터를 간편하게 확보"
   },
   {
@@ -15439,7 +15439,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 76,
+        "score": 75,
         "weight": "30%"
       },
       "reputation": {
@@ -15469,7 +15469,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 97,
+        "score": 98,
         "weight": "30%"
       },
       "reputation": {
@@ -17260,7 +17260,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 62,
+        "score": 63,
         "weight": "30%"
       },
       "reputation": {
@@ -17553,7 +17553,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 48,
+        "score": 47,
         "weight": "30%"
       },
       "reputation": {
@@ -17801,7 +17801,7 @@
       "检测到 22 处环境变量/文件/剪贴板访问",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（68 天）"
+      "发布者账号较新（69 天）"
     ],
     "owner": "marvellam",
     "repo": "lzp-video-subtitle",
@@ -18268,7 +18268,7 @@
     "flags": [
       "未检测到语义化版本号或 Release 记录",
       "Issue 中出现 2 次安全相关负面词汇",
-      "发布者账号较新（65 天）"
+      "发布者账号较新（66 天）"
     ],
     "owner": "yescan-ai",
     "repo": "yescan-skill",
@@ -18316,7 +18316,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 67,
+        "score": 66,
         "weight": "30%"
       },
       "reputation": {
@@ -19284,7 +19284,7 @@
     "flags": [
       "检测到 2 处危险系统调用（exec/subprocess等）",
       "检测到 1 处环境变量/文件/剪贴板访问",
-      "Issue 平均关闭时长 41 天"
+      "Issue 平均关闭时长 42 天"
     ],
     "owner": "CadenGithubB",
     "repo": "HardwareOne_Openclaw_Skill",
@@ -19505,7 +19505,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 64,
+        "score": 65,
         "weight": "30%"
       },
       "reputation": {
@@ -20559,7 +20559,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 96,
+        "score": 97,
         "weight": "30%"
       },
       "reputation": {
@@ -20581,7 +20581,7 @@
     "description": "Local multi-layer memory app for OpenClaw multi-agents — Dream Engine, Self-Improvement, Cross-Agent Memory, Semantic Closets, Cognitive Graph"
   },
   {
-    "total": 86,
+    "total": 85,
     "level": "SAFE",
     "label": "✅ 推荐使用",
     "breakdown": {
@@ -20590,7 +20590,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 52,
+        "score": 51,
         "weight": "30%"
       },
       "reputation": {
@@ -21690,7 +21690,7 @@
     "owner": "NevaMind-AI",
     "repo": "memU",
     "repo_url": "https://github.com/NevaMind-AI/memU",
-    "stars": 14275,
+    "stars": 14276,
     "description": "Personal memory across agents"
   },
   {
@@ -21963,7 +21963,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 70,
+        "score": 69,
         "weight": "30%"
       },
       "reputation": {
@@ -22338,7 +22338,7 @@
     "owner": "sergebulaev",
     "repo": "tiktok-skills",
     "repo_url": "https://github.com/sergebulaev/tiktok-skills",
-    "stars": 7,
+    "stars": 8,
     "description": "TikTok marketing skills for Claude Code and Codex: 3-second video hooks, captions, trend mapping, and a weekly plan. Draft, humanize, and publish via Publora. MIT. Content engineering by Creative Content Crafts."
   },
   {
@@ -22429,12 +22429,12 @@
     "description": "Reusable AI agent skills with multi-IDE sync, export, and publishing workflow"
   },
   {
-    "total": 92,
-    "level": "SAFE",
-    "label": "✅ 推荐使用",
+    "total": 78,
+    "level": "REVIEW",
+    "label": "⚠️  建议人工复核后使用",
     "breakdown": {
       "safety": {
-        "score": 100,
+        "score": 70,
         "weight": "50%"
       },
       "maintenance": {
@@ -22447,6 +22447,7 @@
       }
     },
     "flags": [
+      "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
       "发布者仅有 1 个公开仓库，背景单薄"
     ],
@@ -22454,7 +22455,7 @@
     "repo": "pristine-skill",
     "repo_url": "https://github.com/newbanser/pristine-skill",
     "stars": 30,
-    "description": "An agent skill enforcing the First-Time Principle: write every change in its final form — no patches, no what-comments, no leftovers, no local/deployed drift. Cross-platform: Claude Code, Codex, OpenCode."
+    "description": "Perhaps the only agent skill you need: if memory loss is the root, let every AI agent rebirth follow the First-Time Principle. That's all."
   },
   {
     "total": 89,
@@ -22880,7 +22881,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 53,
         "weight": "30%"
       },
       "reputation": {
@@ -22911,7 +22912,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 53,
         "weight": "30%"
       },
       "reputation": {
@@ -23046,5 +23047,798 @@
     "repo_url": "https://github.com/ShekharBhardwaj/openclaw-agentic-ledger",
     "stars": 0,
     "description": "ClawHub skill: cost tracking with budget walls and replay for OpenClaw agents, powered by Agentic Ledger. Local-first."
+  },
+  {
+    "total": 90,
+    "level": "SAFE",
+    "label": "✅ 推荐使用",
+    "breakdown": {
+      "safety": {
+        "score": 100,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 99,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 50,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "Issue 中出现 10 次安全相关负面词汇"
+    ],
+    "owner": "soos3d",
+    "repo": "postflight",
+    "repo_url": "https://github.com/soos3d/postflight",
+    "stars": 1,
+    "description": "An OpenClaw skill that drafts 3 posts a day from your real work and publishes only when you reply ship. There is no autonomous mode. Formerly x-poster."
+  },
+  {
+    "total": 78,
+    "level": "REVIEW",
+    "label": "⚠️  建议人工复核后使用",
+    "breakdown": {
+      "safety": {
+        "score": 90,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 55,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 85,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "检测到 1 处危险系统调用（exec/subprocess等）",
+      "无已关闭 Issue 记录，响应速度未知",
+      "未检测到语义化版本号或 Release 记录",
+      "发布者仅有 1 个公开仓库，背景单薄"
+    ],
+    "owner": "Marchelleintrinsical938",
+    "repo": "skills",
+    "repo_url": "https://github.com/Marchelleintrinsical938/skills",
+    "stars": 0,
+    "description": "Enable AI agents to access real-time Danish data for job search, housing, groceries, weather, travel, and health information."
+  },
+  {
+    "total": 68,
+    "level": "REVIEW",
+    "label": "⚠️  建议人工复核后使用",
+    "breakdown": {
+      "safety": {
+        "score": 70,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 55,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 85,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "README 未声明所需权限",
+      "无已关闭 Issue 记录，响应速度未知",
+      "未检测到语义化版本号或 Release 记录",
+      "发布者仅有 1 个公开仓库，背景单薄"
+    ],
+    "owner": "Polystichumlonchitissumatran261",
+    "repo": "tweetclaw",
+    "repo_url": "https://github.com/Polystichumlonchitissumatran261/tweetclaw",
+    "stars": 0,
+    "description": "Automate tweets, replies, likes, retweets, follows, and DMs with low-cost X/Twitter API calls via OpenClaw and Xquik integration."
+  },
+  {
+    "total": 58,
+    "level": "CAUTION",
+    "label": "🔶 仅限受控环境测试",
+    "breakdown": {
+      "safety": {
+        "score": 50,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 55,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 85,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "检测到 7 处危险系统调用（exec/subprocess等）",
+      "检测到 2 处环境变量/文件/剪贴板访问",
+      "无已关闭 Issue 记录，响应速度未知",
+      "未检测到语义化版本号或 Release 记录",
+      "发布者仅有 1 个公开仓库，背景单薄"
+    ],
+    "owner": "kilogrametz",
+    "repo": "ai-security-audit",
+    "repo_url": "https://github.com/kilogrametz/ai-security-audit",
+    "stars": 0,
+    "description": "Conduct automated security audits of web apps and APIs to find authentication, input, rate limiting, and secrets management issues."
+  },
+  {
+    "total": 84,
+    "level": "REVIEW",
+    "label": "⚠️  建议人工复核后使用",
+    "breakdown": {
+      "safety": {
+        "score": 100,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 55,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 85,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "无已关闭 Issue 记录，响应速度未知",
+      "未检测到语义化版本号或 Release 记录",
+      "发布者仅有 1 个公开仓库，背景单薄"
+    ],
+    "owner": "headlike-oradexon12",
+    "repo": "skills",
+    "repo_url": "https://github.com/headlike-oradexon12/skills",
+    "stars": 1,
+    "description": "Enable AI agents to automate document signing and contract workflows using reusable skills integrated with the eSign platform API."
+  },
+  {
+    "total": 66,
+    "level": "REVIEW",
+    "label": "⚠️  建议人工复核后使用",
+    "breakdown": {
+      "safety": {
+        "score": 64,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 55,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 85,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "检测到 2 处危险系统调用（exec/subprocess等）",
+      "检测到 2 处网络外发调用且 README 无说明",
+      "无已关闭 Issue 记录，响应速度未知",
+      "未检测到语义化版本号或 Release 记录",
+      "发布者仅有 1 个公开仓库，背景单薄"
+    ],
+    "owner": "lucaducapuca",
+    "repo": "alibabacloud-bigdata-skills",
+    "repo_url": "https://github.com/lucaducapuca/alibabacloud-bigdata-skills",
+    "stars": 1,
+    "description": "Provide AI agents with modular skills to automate and manage Alibaba Cloud big data services using official APIs and SDKs."
+  },
+  {
+    "total": 84,
+    "level": "REVIEW",
+    "label": "⚠️  建议人工复核后使用",
+    "breakdown": {
+      "safety": {
+        "score": 100,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 55,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 85,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "无已关闭 Issue 记录，响应速度未知",
+      "未检测到语义化版本号或 Release 记录",
+      "发布者仅有 1 个公开仓库，背景单薄"
+    ],
+    "owner": "rarefied-languagebarrier142",
+    "repo": "aispec-skill",
+    "repo_url": "https://github.com/rarefied-languagebarrier142/aispec-skill",
+    "stars": 0,
+    "description": "Provide enterprise-grade project specs for popular frameworks to ensure consistent architecture and simplify team onboarding across editors."
+  },
+  {
+    "total": 84,
+    "level": "REVIEW",
+    "label": "⚠️  建议人工复核后使用",
+    "breakdown": {
+      "safety": {
+        "score": 100,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 55,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 85,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "无已关闭 Issue 记录，响应速度未知",
+      "未检测到语义化版本号或 Release 记录",
+      "发布者仅有 1 个公开仓库，背景单薄"
+    ],
+    "owner": "unperturbed-longislandsound997",
+    "repo": "skills",
+    "repo_url": "https://github.com/unperturbed-longislandsound997/skills",
+    "stars": 1,
+    "description": "Manage and generate API specs from requirements and stories using a structured, reusable skills-based approach focused on OpenAPI compatibility."
+  },
+  {
+    "total": 84,
+    "level": "REVIEW",
+    "label": "⚠️  建议人工复核后使用",
+    "breakdown": {
+      "safety": {
+        "score": 100,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 55,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 85,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "无已关闭 Issue 记录，响应速度未知",
+      "未检测到语义化版本号或 Release 记录",
+      "发布者仅有 1 个公开仓库，背景单薄"
+    ],
+    "owner": "geziel16",
+    "repo": "google-workspace-skill",
+    "repo_url": "https://github.com/geziel16/google-workspace-skill",
+    "stars": 0,
+    "description": "Control Google Workspace services via structured JSON commands using an OpenClaw skill that wraps the official Google Workspace CLI."
+  },
+  {
+    "total": 64,
+    "level": "CAUTION",
+    "label": "🔶 仅限受控环境测试",
+    "breakdown": {
+      "safety": {
+        "score": 60,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 55,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 85,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "检测到 24 处危险系统调用（exec/subprocess等）",
+      "无已关闭 Issue 记录，响应速度未知",
+      "未检测到语义化版本号或 Release 记录",
+      "发布者仅有 1 个公开仓库，背景单薄"
+    ],
+    "owner": "eastythenob8-svg",
+    "repo": "graph-memory",
+    "repo_url": "https://github.com/eastythenob8-svg/graph-memory",
+    "stars": 1,
+    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across sessions."
+  },
+  {
+    "total": 80,
+    "level": "REVIEW",
+    "label": "⚠️  建议人工复核后使用",
+    "breakdown": {
+      "safety": {
+        "score": 60,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 100,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 100,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "检测到 5 处危险系统调用（exec/subprocess等）"
+    ],
+    "owner": "wljmmx",
+    "repo": "graph-memory-pro",
+    "repo_url": "https://github.com/wljmmx/graph-memory-pro",
+    "stars": 0,
+    "description": null
+  },
+  {
+    "total": 82,
+    "level": "REVIEW",
+    "label": "⚠️  建议人工复核后使用",
+    "breakdown": {
+      "safety": {
+        "score": 100,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 69,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 55,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "未检测到语义化版本号或 Release 记录",
+      "Issue 中出现 2 次安全相关负面词汇",
+      "发布者账号较新（81 天）"
+    ],
+    "owner": "itpay-ai",
+    "repo": "itpay-skill-openclaw",
+    "repo_url": "https://github.com/itpay-ai/itpay-skill-openclaw",
+    "stars": 0,
+    "description": "ItPay bundled CLI Skill for OpenClaw and ClawHub"
+  },
+  {
+    "total": 46,
+    "level": "CAUTION",
+    "label": "🔶 仅限受控环境测试",
+    "breakdown": {
+      "safety": {
+        "score": 20,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 55,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 100,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "README 未声明所需权限",
+      "检测到 9 处危险系统调用（exec/subprocess等）",
+      "检测到 31 处环境变量/文件/剪贴板访问",
+      "无已关闭 Issue 记录，响应速度未知",
+      "未检测到语义化版本号或 Release 记录"
+    ],
+    "owner": "nguyenduysphk3407051993",
+    "repo": "OPENCLAW_SKILL",
+    "repo_url": "https://github.com/nguyenduysphk3407051993/OPENCLAW_SKILL",
+    "stars": 0,
+    "description": "tạo các skill cho openclaw"
+  },
+  {
+    "total": 64,
+    "level": "CAUTION",
+    "label": "🔶 仅限受控环境测试",
+    "breakdown": {
+      "safety": {
+        "score": 54,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 55,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 100,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "README 未声明所需权限",
+      "检测到 2 处网络外发调用且 README 无说明",
+      "无已关闭 Issue 记录，响应速度未知",
+      "未检测到语义化版本号或 Release 记录"
+    ],
+    "owner": "elevasyncsolutions-jpg",
+    "repo": "openclaw-twitter-thread-skill",
+    "repo_url": "https://github.com/elevasyncsolutions-jpg/openclaw-twitter-thread-skill",
+    "stars": 0,
+    "description": "OpenClaw skill — viral X/Twitter thread generator (LLM) + publisher (API v2), dry-run safe"
+  },
+  {
+    "total": 68,
+    "level": "REVIEW",
+    "label": "⚠️  建议人工复核后使用",
+    "breakdown": {
+      "safety": {
+        "score": 70,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 54,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 85,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "README 未声明所需权限",
+      "无已关闭 Issue 记录，响应速度未知",
+      "未检测到语义化版本号或 Release 记录",
+      "发布者仅有 2 个公开仓库，背景单薄"
+    ],
+    "owner": "trend0xai",
+    "repo": "my-openclaw-skills",
+    "repo_url": "https://github.com/trend0xai/my-openclaw-skills",
+    "stars": 1,
+    "description": null
+  },
+  {
+    "total": 86,
+    "level": "SAFE",
+    "label": "✅ 推荐使用",
+    "breakdown": {
+      "safety": {
+        "score": 100,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 54,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 100,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "无已关闭 Issue 记录，响应速度未知",
+      "未检测到语义化版本号或 Release 记录"
+    ],
+    "owner": "brahimamirzerbout",
+    "repo": "openclaw-docs-skill",
+    "repo_url": "https://github.com/brahimamirzerbout/openclaw-docs-skill",
+    "stars": 0,
+    "description": null
+  },
+  {
+    "total": 61,
+    "level": "CAUTION",
+    "label": "🔶 仅限受控环境测试",
+    "breakdown": {
+      "safety": {
+        "score": 50,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 54,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 100,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "检测到 22 处危险系统调用（exec/subprocess等）",
+      "检测到 223 处环境变量/文件/剪贴板访问",
+      "无已关闭 Issue 记录，响应速度未知",
+      "未检测到语义化版本号或 Release 记录"
+    ],
+    "owner": "brahimamirzerbout",
+    "repo": "openclaw-agent-skills",
+    "repo_url": "https://github.com/brahimamirzerbout/openclaw-agent-skills",
+    "stars": 0,
+    "description": null
+  },
+  {
+    "total": 71,
+    "level": "REVIEW",
+    "label": "⚠️  建议人工复核后使用",
+    "breakdown": {
+      "safety": {
+        "score": 70,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 54,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 100,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "README 未声明所需权限",
+      "无已关闭 Issue 记录，响应速度未知",
+      "未检测到语义化版本号或 Release 记录"
+    ],
+    "owner": "zjc151",
+    "repo": "framewise-openclaw-skill",
+    "repo_url": "https://github.com/zjc151/framewise-openclaw-skill",
+    "stars": 0,
+    "description": null
+  },
+  {
+    "total": 68,
+    "level": "REVIEW",
+    "label": "⚠️  建议人工复核后使用",
+    "breakdown": {
+      "safety": {
+        "score": 70,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 54,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 85,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "检测到 6 处网络外发调用且 README 无说明",
+      "检测到 43 处环境变量/文件/剪贴板访问",
+      "无已关闭 Issue 记录，响应速度未知",
+      "未检测到语义化版本号或 Release 记录",
+      "发布者仅有 1 个公开仓库，背景单薄"
+    ],
+    "owner": "donorazulume",
+    "repo": "openclaw-skills-shared",
+    "repo_url": "https://github.com/donorazulume/openclaw-skills-shared",
+    "stars": 0,
+    "description": "Shared OpenClaw agent skills used by both Roho and Amara agents"
+  },
+  {
+    "total": 100,
+    "level": "SAFE",
+    "label": "✅ 推荐使用",
+    "breakdown": {
+      "safety": {
+        "score": 100,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 99,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 100,
+        "weight": "20%"
+      }
+    },
+    "flags": [],
+    "owner": "swatchtime",
+    "repo": "openclaw-time-skill",
+    "repo_url": "https://github.com/swatchtime/openclaw-time-skill",
+    "stars": 0,
+    "description": "An Openclaw skill to teach agents how to display current Swatch Internet time"
+  },
+  {
+    "total": 62,
+    "level": "CAUTION",
+    "label": "🔶 仅限受控环境测试",
+    "breakdown": {
+      "safety": {
+        "score": 52,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 54,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 100,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "README 未声明所需权限",
+      "检测到 1 处网络外发调用且 README 无说明",
+      "检测到 2 处环境变量/文件/剪贴板访问",
+      "无已关闭 Issue 记录，响应速度未知",
+      "未检测到语义化版本号或 Release 记录"
+    ],
+    "owner": "zhangsan-tea",
+    "repo": "openclaw-skills",
+    "repo_url": "https://github.com/zhangsan-tea/openclaw-skills",
+    "stars": 0,
+    "description": "Reusable OpenClaw Agent Skills (sanitized, no secrets)"
+  },
+  {
+    "total": 86,
+    "level": "SAFE",
+    "label": "✅ 推荐使用",
+    "breakdown": {
+      "safety": {
+        "score": 100,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 54,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 100,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "无已关闭 Issue 记录，响应速度未知",
+      "未检测到语义化版本号或 Release 记录"
+    ],
+    "owner": "JonathanJing",
+    "repo": "openclaw-gateway-watchdog-skill",
+    "repo_url": "https://github.com/JonathanJing/openclaw-gateway-watchdog-skill",
+    "stars": 0,
+    "description": null
+  },
+  {
+    "total": 61,
+    "level": "CAUTION",
+    "label": "🔶 仅限受控环境测试",
+    "breakdown": {
+      "safety": {
+        "score": 70,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 54,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 50,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "README 未声明所需权限",
+      "无已关闭 Issue 记录，响应速度未知",
+      "未检测到语义化版本号或 Release 记录",
+      "发布者账号创建仅 1 天（疑似一次性账号）",
+      "发布者仅有 1 个公开仓库，背景单薄"
+    ],
+    "owner": "hardwandsoftw-it",
+    "repo": "agente-cocinero-openclaw",
+    "repo_url": "https://github.com/hardwandsoftw-it/agente-cocinero-openclaw",
+    "stars": 0,
+    "description": null
+  },
+  {
+    "total": 71,
+    "level": "REVIEW",
+    "label": "⚠️  建议人工复核后使用",
+    "breakdown": {
+      "safety": {
+        "score": 70,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 54,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 100,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "README 未声明所需权限",
+      "无已关闭 Issue 记录，响应速度未知",
+      "未检测到语义化版本号或 Release 记录"
+    ],
+    "owner": "Verificate-Dev",
+    "repo": "verificate-clawhub-skill-cn",
+    "repo_url": "https://github.com/Verificate-Dev/verificate-clawhub-skill-cn",
+    "stars": 0,
+    "description": "Verificate ClawHub 技能（中文）— OpenClaw 的信任层。在信任之前先验证 AI 编写的代码、方案与文档。免费试用，无需注册。"
+  },
+  {
+    "total": 71,
+    "level": "REVIEW",
+    "label": "⚠️  建议人工复核后使用",
+    "breakdown": {
+      "safety": {
+        "score": 70,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 54,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 100,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "README 未声明所需权限",
+      "无已关闭 Issue 记录，响应速度未知",
+      "未检测到语义化版本号或 Release 记录"
+    ],
+    "owner": "Verificate-Dev",
+    "repo": "verificate-clawhub-skill",
+    "repo_url": "https://github.com/Verificate-Dev/verificate-clawhub-skill",
+    "stars": 0,
+    "description": "Verificate skill for ClawHub — the trust layer for OpenClaw. Verify AI-written code, plans and documents before you trust them. Free to try, no signup."
+  },
+  {
+    "total": 59,
+    "level": "CAUTION",
+    "label": "🔶 仅限受控环境测试",
+    "breakdown": {
+      "safety": {
+        "score": 65,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 54,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 50,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "README 未声明所需权限",
+      "检测到 1 处环境变量/文件/剪贴板访问",
+      "无已关闭 Issue 记录，响应速度未知",
+      "未检测到语义化版本号或 Release 记录",
+      "发布者账号创建仅 4 天（疑似一次性账号）",
+      "发布者仅有 1 个公开仓库，背景单薄"
+    ],
+    "owner": "yintao-gh",
+    "repo": "My-open-claw-skill",
+    "repo_url": "https://github.com/yintao-gh/My-open-claw-skill",
+    "stars": 0,
+    "description": "我的open claw skill仓库。"
+  },
+  {
+    "total": 76,
+    "level": "REVIEW",
+    "label": "⚠️  建议人工复核后使用",
+    "breakdown": {
+      "safety": {
+        "score": 70,
+        "weight": "50%"
+      },
+      "maintenance": {
+        "score": 69,
+        "weight": "30%"
+      },
+      "reputation": {
+        "score": 100,
+        "weight": "20%"
+      }
+    },
+    "flags": [
+      "README 未声明所需权限",
+      "未检测到语义化版本号或 Release 记录"
+    ],
+    "owner": "dmmdea",
+    "repo": "OpenClaw-Youtube-Analyst-Skills",
+    "repo_url": "https://github.com/dmmdea/OpenClaw-Youtube-Analyst-Skills",
+    "stars": 0,
+    "description": "Two complementary Claude Code skills for the OpenClaw YouTube analyst pipeline. Setup skill bootstraps Google Cloud + OAuth + Ads Manager + 6 MCP servers; Runbook covers library scans, packaging + matched-pair analyses, organic-vs-paid outlier scoring, statistical-discipline rules."
   }
 ]
