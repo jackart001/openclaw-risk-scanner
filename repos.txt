@@ -997,3 +997,25 @@ Verificate-Dev/verificate-clawhub-skill-cn
 Verificate-Dev/verificate-clawhub-skill
 yintao-gh/My-open-claw-skill
 dmmdea/OpenClaw-Youtube-Analyst-Skills
+
+# 自动发现 — 2026-08-17
+aisenseapi/aisense-free-public-rest-apis
+burnshall-ui/vpsmon
+um-why/douyin-search-openclaw
+jangviktor-web/nihaixia
+Pe4atnik/win11-visible-browser
+jatinloey1598-dot/social-signals-analyzer
+coo-quack/openclaw-cursor-cli
+LGC666677/binance-narrative-os
+zack-hayesuapy7545/hyperframes-motion-exec-scripts
+pc-style/openclaw-skills
+BruceTangc/tts-openclaw-skills-public
+singleGanghood/openclaw-skill-factory-plugin
+aldow3n-a11y/grokbot-inspired-teach-as-openclaw-skill
+burnshall-ui/openclaw-eve-skill
+abogitoff/fuxux-openclaw-skill
+relaxas319/my-openclaw-skill
+sostae1/china-stock-dashboard
+kevin-sodhi/multi-agent-code-review-auto-fix-openclaw-amd-rocm
+ghively/openclaw-agent-architect
+d1667018881/awesome-novel-agent-openclaw
