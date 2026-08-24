@@ -1019,3 +1019,26 @@ sostae1/china-stock-dashboard
 kevin-sodhi/multi-agent-code-review-auto-fix-openclaw-amd-rocm
 ghively/openclaw-agent-architect
 d1667018881/awesome-novel-agent-openclaw
+
+# 自动发现 — 2026-08-24
+anasfik/FlutterGuard
+prashantrathor0987/bd2-daily-fortune
+longlannet/google-search
+bekservice/Famulor-Skill
+GoatInAHat/openclaw-paperbanana
+GoatInAHat/openclaw-jmp
+tubasa821004-hash/social-manipulation-radar
+escoffier-labs/skillet
+Levix/hn-daily-skill
+Mm98573/skill-verification
+DT227-AI/openclaw-skills
+maverickcoderbot/openclaw-skills
+DehydratedFlask/openclaw-skills
+kalapontsai/OPENCLAW-SKILLS
+RaphLorr/openclaw-skills
+thegizmopro/openclaw-med-reminder-skill
+fredabila/agent2creator-openclaw
+redis-developer/openclaw-redis-agent-memory
+thumbflipcontact-ops/threadly-clawhub-skill
+VerificateAI/verificate-clawhub-skill-cn
+VerificateAI/verificate-clawhub-skill
