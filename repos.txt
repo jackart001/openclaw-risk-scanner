@@ -1042,3 +1042,22 @@ redis-developer/openclaw-redis-agent-memory
 thumbflipcontact-ops/threadly-clawhub-skill
 VerificateAI/verificate-clawhub-skill-cn
 VerificateAI/verificate-clawhub-skill
+
+# 自动发现 — 2026-08-31
+zhouxin121/mindvault
+seaworld008/Commonly-used-high-value-skills
+SkillNerds/xskill
+Kevoyuan/job-search-de
+MrGeDiao/shuorenhua
+Yuan1z0825/nature-skills
+Gary-Luo1/wechat-article-subscriber
+Kandler3/yandex-tracker-openclaw-skill
+Arjun220905/openclaw-x-meetstream-skill
+pmuhammadagus-byte/openclaw-skill-intake-engine
+pmuhammadagus-byte/openclaw-skill-router
+openswitchboard-ai/openclaw-skill
+kesslerio/finance-news-openclaw-skill
+LeftenantZero/OpenClawSkillsMirror
+autumnseasonism/build-openclaw-inventory-agent
+kesslerio/camoufox-stealth-browser-clawhub-skill
+fancy-chenyao/OpenClaw-Skill-Eval
